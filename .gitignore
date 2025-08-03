@@ -56,3 +56,5 @@ javascript_function_example.md
 final_steps_guide.md
 azure_tools_installation.md
 azure_resources_setup.md
+azure-pipelines-simple.yml
+managed_identity_setup.md
