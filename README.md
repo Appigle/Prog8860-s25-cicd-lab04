@@ -96,7 +96,6 @@ The Azure Function App is successfully deployed and accessible at:
 - **Build Stage**: ✅ Successful compilation and packaging
 - **Test Stage**: ✅ 4/4 unit tests passing
 - **Deploy Stage**: ✅ Successful deployment to Azure Function App
-- **Total Grade**: 5% of course grade achieved
 
 ## Local Development Setup
 
