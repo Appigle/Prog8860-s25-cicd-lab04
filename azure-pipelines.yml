@@ -6,7 +6,6 @@
 trigger:
   - main
 
-
 pool:
   name: SelfHostedPool
 
